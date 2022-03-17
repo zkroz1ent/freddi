@@ -4,10 +4,9 @@
 ## Groupe 1
 Sabatier Marylia  
 Damien Dutertre  
-Achille Monteil  
 
 ## Installation du projet : 
-__1. Télécharger le projet__
+__1. Téléchargement__
 Télécharger le projet et le placer dans votre fichier htdocs sur l'application XAMPP
 Ouvrir l'interface XAMPP -> Admin
 Une fois la fenetre ouverte, taper dans la barre de l'URL "localhost/FREDI
