@@ -7,16 +7,21 @@ Damien Dutertre
 Achille Monteil  
 
 ## Installation du projet : 
-__1. La base de données__
-* La base de donnée se trouve dans le fichier sql au chemin FREDI/BDD/fredi21.sql
+__1. Télécharger le projet__
+Télécharger le projet et le placer dans votre fichier htdocs sur l'application XAMPP
+Ouvrir l'interface XAMPP -> Admin
+Une fois la fenetre ouverte, taper dans la barre de l'URL "localhost/FREDI
 
-__2. Jeux de données__  
-Les utilisateurs sont a rajouter depuis le fichier BDD UTILISATEUR.SQL
+__2. La base de données__
+* La base de donnée se trouve dans le fichier sql au chemin fredi/BDD/fredi21.sql
 
-__3. CSV__
-Les fichiers CSV sont disponibles dans le dossier FREDI/files/...  
+__3. Jeux de données__  
+Les utilisateurs sont a rajouter depuis le fichier fredi/BDD/utilisateur.sql
 
-__4. Test avec données__
+__4. CSV__
+Les fichiers CSV sont disponibles dans le dossier fredi/BDD/
+
+__5. Test avec données__
 Connexion en adhérent
 * Login: fandefoot1
 * Adresse mail: michel@gmail.com 
@@ -35,11 +40,12 @@ Connexion en controleur
 Rôles dans la base utilisateur : 
 * Administrateur: 1
 * Contrôleur: 2
-# 5. Le projet FREDI  web  
+
+# 6. Le projet FREDI  web  
 
 Le site FREDI consiste à saisir des bordereaux ( lignes de frais ) sur un site web une fois authentifié. 4 acteurs sont présents, l'adhérent, le responsable légal, le trésorier et le responsable du CRIB.
 
-__5.1. Rappel du contexte__  
+__6.1. Rappel du contexte__  
 
 La Maison des Ligues de Lorraine (M2L) a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées. La M2L est une structure financée par le Conseil Régional de Lorraine dont l'administration est déléguée au Comité Régional Olympique et Sportif de Lorraine (CROSL) Les associations sportives (les clubs) de la M2L peuvent profiter de dispositions fiscales apparues en 2008 pour faire bénéficier de remises d'impôts aux adhérents engageant des frais, en particulier dans le cadre de déplacements liés à des compétitions, des stages sportifs, des réunions...
 
