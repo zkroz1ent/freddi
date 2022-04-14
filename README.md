@@ -15,11 +15,10 @@ __2. La base de données__
 * La base de donnée se trouve dans le fichier sql au chemin fredi/BDD/fredi21.sql
 
 __3. Jeux de données__  
-Les utilisateurs sont a rajouter depuis le fichier fredi/BDD/utilisateur.sql
+* Les utilisateurs sont a rajouter depuis le fichier fredi/BDD/utilisateur.sql
 
 __4. CSV__
-
-Les fichiers CSV sont disponibles dans le dossier fredi/BDD/
+* Les fichiers CSV sont disponibles dans le dossier fredi/BDD/
 
 __5. Test avec données__
 
