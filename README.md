@@ -4,6 +4,7 @@
 ## Groupe 1
 Sabatier Marylia  
 Damien Dutertre  
+Monteil Achille
 
 ## Installation du projet : 
 __1. Téléchargement__                                                                                                       
